@@ -22,3 +22,21 @@ warmStrategyCache({
   urls: ['/index.html', '/'],
   strategy: pageCache,
 });
+
+registerRoute(({ request }) => request.mode === 'navigate', pageCache);
+//Implement asset caching
+
+  new CacheFirst({
+    cacheName: 'my-image-cache',
+    plugins: [
+      new CacheableResponsePlugin({
+        statuses: [0, 200],
+      }),
+      new ExpirationPlugin({
+        maxEntries: 60,
+        // for 30days
+        maxAgeSeconds: 30 * 24 * 60 * 60, 
+      }),
+    ],
+  })
+registerRoute();
