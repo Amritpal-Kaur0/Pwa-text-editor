@@ -12,6 +12,10 @@
 - [License](#license)
 - [Questions](#questions)
 
+![pwa](https://github.com/Amritpal-Kaur0/Pwa-text-editor/assets/128442182/00c02295-3f87-467e-b5f5-7bf313f280ae)![pwa2](https://github.com/Amritpal-Kaur0/Pwa-text-editor/assets/128442182/f453892d-456b-45a6-8d86-fcd617629765)
+![pwa3](https://github.com/Amritpal-Kaur0/Pwa-text-editor/assets/128442182/9f0495e2-e9c9-4a2b-84f1-839e7c35d894)
+
+
 
 ## Description
 The app is the Text Editor which runs in the browser . The app is single-page application that meets the PWA criteria. Additionally, it also feature a number of data persistence techniques that serve as redundancies in case one of the options is not supported by the browser. The application also function's offline.
