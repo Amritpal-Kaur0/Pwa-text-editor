@@ -1,7 +1,7 @@
 # Pwa-text-editor
 
 
- # ![](https://img.shields.io/badge/npm-PWA-blue) ![](https://img.shields.io/badge/license-MIT-brightgreen) ![](https://img.shields.io/badge/concurrently-webpack-orange) ![](https://img.shields.io/badge/node.js-plugin-red) ![](https://img.shields.io/badge/htmlplugin-PWA/manifest-red)
+ #  ![](https://img.shields.io/badge/htmlplugin-PWA/manifest-brown) ![](https://img.shields.io/badge/npm-PWA-blue) ![](https://img.shields.io/badge/license-MIT-brightgreen) ![](https://img.shields.io/badge/concurrently-webpack-orange) ![](https://img.shields.io/badge/node.js-plugin-red) 
 
  ## Table of Contents
 
